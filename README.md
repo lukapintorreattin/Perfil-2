@@ -26,31 +26,31 @@ class Luka:
         return "Code. Break. Fix. Repeat. 🔥"
 ```
 
-## <p align="center"> 🛠️ Meu Arsenal Tecnológico
+## <p align="center"> 🛠️ Meu Arsenal Tecnológico 🛠️
 
- <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode," alt="Arsenal Tecnológico">
+ <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" alt="Arsenal Tecnológico">
 
  
 
-## <p align="center"> 🔥 Modo Streak Ativado
+## <p align="center"> 🔥 Modo Streak Ativado 🔥
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=lukapintorreattin&theme=shadow-green&hide_border=true" /> </p>
 
 
 
-## <p align="center"> 🐍 A Lenda da Cobra
+## <p align="center"> 🐍 A Lenda da Cobra 🐍
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
 
 
-## <p align="center"> 💡 Projetos em destaque:
+## <p align="center"> 💡 Projetos em destaque 💡:
 
-<p align="center"> 🚧 Em construção total...
+<p align="center"> 🚧 Em construção total... 
 <p align="center"> Em breve você vai ver projetos insanos em C++, Python, Machine Learning e muito mais. 🔥
 
-## <p align="center"> 📬 Como me Encontrar
+## <p align="center"> 📬 Como me Encontrar 📬
 
 <p align="center"> <a href="https://www.linkedin.com/in/luka-pintor-reatti-500b8a3bb/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
-<p align="center"> ⚡ "Code. Learn. Evolve." </p>
+<p align="center"> ⚡ "Code. Learn. Evolve." ⚡</p>
