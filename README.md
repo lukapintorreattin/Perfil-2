@@ -26,25 +26,25 @@ class Luka:
         return "Code. Break. Fix. Repeat. 🔥"
 ```
 
-## <p align="center"> 🛠️ Meu Arsenal Tecnológico 🛠️
+## <p align="center"> 🛠️ Meu Arsenal Tecnológico 
 
  <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" alt="Arsenal Tecnológico">
 
  
 
-## <p align="center"> 🔥 Modo Streak Ativado 🔥
+## <p align="center"> 🔥 Modo Streak Ativado 
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=lukapintorreattin&theme=shadow-green&hide_border=true" /> </p>
 
 
 
-## <p align="center"> 🐍 A Lenda da Cobra 🐍
+## <p align="center"> 🐍 A Lenda da Cobra 
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
 
 
-## <p align="center"> 💡 Projetos em destaque 💡:
+## <p align="center"> 💡 Projetos em destaque:
 
 <p align="center"> 🚧 Em construção total... 
 <p align="center"> Em breve você vai ver projetos insanos em C++, Python, Machine Learning e muito mais. 🔥
